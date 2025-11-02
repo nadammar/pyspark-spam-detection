@@ -71,12 +71,12 @@ Below are example screenshots of the two deployed Gradio interfaces and a sample
 ###  Dataset 1 Interface (SMS Spam Detection)
 
 
-![Dataset 1 Interface](images/emailspam_interface.png)
+![Dataset 1 Interface](Images/emailspam_interface.png)
 
 ### Dataset 2 Interface (YouTube Comment Spam Detection)
 
 
-![Dataset 2 Interface](images/spamdetector_interface.png)
+![Dataset 2 Interface](Images/spamdetector_interface.png)
 
 
 
