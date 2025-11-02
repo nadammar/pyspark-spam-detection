@@ -64,16 +64,16 @@ Logistic Regression provided the best performance across both datasets, showing 
 
 ---
 
-## 🌐 Gradio Interfaces
+## Gradio Interfaces
 
 Below are example screenshots of the two deployed Gradio interfaces and a sample test result.
 
-### 🖼️ Dataset 1 Interface (SMS Spam Detection)
+###  Dataset 1 Interface (SMS Spam Detection)
 
 
 ![Dataset 1 Interface](images/emailspam_interface.png)
 
-### 🖼️ Dataset 2 Interface (YouTube Comment Spam Detection)
+### Dataset 2 Interface (YouTube Comment Spam Detection)
 
 
 ![Dataset 2 Interface](images/spamdetector_interface.png)
@@ -84,6 +84,6 @@ Below are example screenshots of the two deployed Gradio interfaces and a sample
 
 ## 👩‍💻 Author
 
-**Developed by:** [Nada Ammar | AI and Data Science Engineer]
+**Developed by:** Nada Ammar | AI and Data Science Engineer
 
 
